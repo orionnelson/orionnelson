@@ -1,16 +1,15 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Orion - [<img alt="https://or9.ca" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />][website]
 
-## I’m an Adventurous, Driven and Ambitious Developer Looking for Cyber-Security Related Positions 
-```python
+## I’m an Adventurous, Driven and Ambitious Developer Looking for Cyber-Security Related Positions
+
+```python 4em
 Experience = ["Backend Developer", "Security Analyist", "Researcher", "Script Kiddie", "Teppenyaki Chef"]
 ```
-
 - 🔭 I’m currently working in AML and ML Darkweb Name Screening
 - 🌱 I’m comfortable with Django Backend and various deployment providers
 - 💞️ I’m looking to collaborate with others on Machine Learning, Web Scraping and Cybersecurity Projects
 - 🥅 My 2022 Goals are: Obtain Security Certifications and take part in Cool Projects. 
 - 👀 Fun facts about me: I love to cook, explore places and take up various Hobbies in my spare time.
-.
 ## Connect with me:
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
