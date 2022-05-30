@@ -82,7 +82,7 @@
 <br />
 
 ## Stats:
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orionnelson&layout=compact" alt="github stats"/>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=orionnelson&show_icons=true)
 
 [website]: https://or9.ca
