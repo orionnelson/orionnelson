@@ -2,11 +2,7 @@
 
 ## I’m an Adventurous, Driven and Ambitious Developer Looking for Cyber-Security Related Positions 
 ```python
-import requests
-import tf-nightly
-import cv2
-import bs4
-Experience = ['Backend Developer', 'Security Analyist', 'Researcher', 'Script Kiddie', 'Teppenyaki Chef']
+Experience = ["Backend Developer", "Security Analyist", "Researcher", "Script Kiddie", "Teppenyaki Chef"]
 ```
 
 - 🔭 I’m currently working in AML and ML Darkweb Name Screening
