@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Orion - [<img alt="https://or9.ca" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />][website]
 
 ## I’m an Adventurous, Driven and Ambitious Developer Looking for Cyber-Security Related Positions 
-### Experience = ['Backend Developer','Security Analyist', 'Researcher', 'Script Kiddie', 'Teppenyaki Chef']
+### Experience = [``Backend Developer` ,`Security Analyist`, `Researcher`, `Script Kiddie`, `Teppenyaki Chef`]
 
 - 🔭 I’m currently working in AML and ML Darkweb Name Screening
 - 🌱 I’m comfortable with Django Backend and various deployment providers
@@ -82,8 +82,11 @@
 <br />
 
 ## Stats:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orionnelson&layout=compact)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=orionnelson&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orionnelson&layout=compact&theme=radical)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=orionnelson&show_icons=true&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<p align="right">
 
 [website]: https://or9.ca
 [email]: mailto:me@or9.ca?Subject=Hi%20Orion
