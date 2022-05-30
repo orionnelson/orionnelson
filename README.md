@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Orion - [<img alt="https://or9.ca" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />][website]
 
-## I’m an Adventurous, Driven and Ambitious Developer Looking for Cyber-Security Related Positions
+## I’m an Adventurous, Driven and Ambitious Developer Looking for Cyber-Security Positions
 
 ```python 4em
 Experience = ["Backend Developer", "Security Analyist", "Researcher","Script Kiddie"]
