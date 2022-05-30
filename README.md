@@ -42,13 +42,12 @@
 <img align="left" alt="ReactNative.js" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="Next.js" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nextdotjs.svg"/>
 <img align="left" alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img align="left" alt="StyledComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 <img align="left" alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 <img align="left" alt="Django Python" src="https://img.shields.io/badge/Django-3DB386?style=for-the-badge&logo=django&logoColor=white" />
 <img align="left" alt="OpenCV" src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white" />
-<img align="left" alt="TensorFlow" src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white" />
+<img align="left" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FFA500?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 
 
