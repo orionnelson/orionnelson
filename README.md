@@ -3,7 +3,7 @@
 ## I’m an Adventurous, Driven and Ambitious Developer Looking for Cyber-Security Related Positions
 
 ```python 4em
-Experience = ["Backend Developer", "Security Analyist", "Researcher", "Script Kiddie", "Teppenyaki Chef"]
+Experience = ["Backend Developer", "Security Analyist", "Researcher","Script Kiddie"]
 ```
 - 🔭 I’m currently working in AML and ML Darkweb Name Screening
 - 🌱 I’m comfortable with Django Backend and various deployment providers
