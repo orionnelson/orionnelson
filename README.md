@@ -8,7 +8,7 @@ Experience = ["Backend Developer", "Security Analyist", "Researcher","Script Kid
 - 🔭 I’m currently working in AML and ML Darkweb Name Screening
 - 🌱 I’m comfortable with Django Backend and various deployment providers
 - 💞️ I’m looking to collaborate with others on Machine Learning, Web Scraping and Cybersecurity Projects
-- 🥅 My 2022 Goals are: Obtain Security Certifications and take part in Cool Projects. 
+- 🥅 My 2023 Goals are: Obtain Security Certifications and take part in Cool Projects. 
 - 👀 Fun facts about me: I love to cook, explore places and take up various Hobbies in my spare time.
 ## Connect with me:
 
