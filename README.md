@@ -86,7 +86,7 @@ Experience = ["Backend Developer", "Security Analyist", "Researcher","Script Kid
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orionnelson&layout=compact&theme=radical)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=orionnelson&show_icons=true&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 <p align="right">
 
 [website]: https://or9.ca
