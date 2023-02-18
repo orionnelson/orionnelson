@@ -1,10 +1,19 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Orion - [<img alt="https://or9.ca" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />][website]
 
-## I’m an Adventurous, Driven and Ambitious Developer Looking for Cyber-Security Positions
+<h2 align="left">A Canadian Cybersecurity Specialist, Research Coordinator and  Software Developer. - <img alt="https://or9.ca" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" /></h2>
+
+
+<p align="left">Hello there! I'm a Software Developer and Coordinator who specializes in Information Retrieval and Threat Intelligence. I graduated from York University with a degree in Cybersecurity and currently work at York as an Assistant Research Coordinator.<br><br>I'm a highly technical person who enjoys working both independently and as part of a team. I'm passionate about technology and always strive to stay up-to-date with the latest trends and developments in my field.<br><br>Shoot me an email if you have any questions!
+</p>
+
+
+
 
 ```python 4em
-Experience = ["Backend Developer", "Security Analyist", "Researcher","Script Kiddie"]
+Experience = ["Software Developer", "Security Analyst", "Researcher", "Coordinator","Script Kiddie", "System Administrator"]
+Dev-Experience = ["System", "Frontend", "Dev Ops", "Backend"]
+# I like 🐍 
 ```
+## Looking for Cyber-Security Positions
 - 🔭 I’m currently working in AML and ML Darkweb Name Screening
 - 🌱 I’m comfortable with Django Backend and various deployment providers
 - 💞️ I’m looking to collaborate with others on Machine Learning, Web Scraping and Cybersecurity Projects
