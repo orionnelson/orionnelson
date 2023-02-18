@@ -9,7 +9,7 @@
 
 
 ```python 4em
-Experience = ["Software Developer", "Security Analyst", "Researcher", "Coordinator","Script Kiddie", "System Administrator"]
+Experience = ["Software Developer", "Security Analyst", "Researcher", "Coordinator","Script Kiddie", "Administrator"]
 Dev-Experience = ["System", "Frontend", "Dev Ops", "Backend"]
 # I like 🐍 
 ```
