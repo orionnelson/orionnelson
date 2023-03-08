@@ -11,7 +11,9 @@
 ```python 4em
 Experience = ["Developer", "Researcher", "Coordinator","Admin"]
 Stack = ["System", "Frontend", "Dev Ops", "Backend"]
-# I like 🐍 
+Learning = ["NLP","AI","Piplines","Scalability", "Storage", "Cloud"]
+# I like 🐍
+Likes = ["Information Retrieval", "Threat Intelligence"]
 ```
 ## Looking for Cyber-Security Positions
 - 🔭 I’m currently working in AML and ML Darkweb Name Screening
